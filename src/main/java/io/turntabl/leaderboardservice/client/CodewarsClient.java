@@ -12,6 +12,7 @@ import static java.lang.String.format;
 
 @Component
 @Slf4j
+@NonNull
 public class CodewarsClient {
     
     private static final String BASE_USERS_PATH = "users/%s";

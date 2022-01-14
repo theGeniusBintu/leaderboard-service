@@ -1,6 +1,7 @@
 package io.turntabl.leaderboardservice.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import io.turntabl.leaderboardservice.controller.response.LanguageLevelDto;
 import io.turntabl.leaderboardservice.controller.response.ProfileDto;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
